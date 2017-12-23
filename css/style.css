@@ -1,0 +1,46 @@
+body {
+  background-color: rgba(40,40,43);
+  color: rgb(221, 202, 126);
+}
+
+.title {
+  margin: 20px auto;
+  text-align: center;
+}
+
+.inputdiv {
+  font-size: 1.2em;
+  margin: 100px auto;
+  max-width: 400px;
+  text-align: center;
+  border-bottom: 5px solid #000;
+  
+}
+.inputdiv input {
+  margin: 0px auto 5px;
+  width: 80%;
+  border: none;
+  background-color: rgba(40,40,43);
+  color: rgb(154, 130, 151);
+  
+}
+.btn {
+  display: block;
+}
+
+.bottom {
+  background-color: rgb(30,30,30);
+  min-height: 200px;
+  width: 100%;
+  margin: 20px auto 0px;
+}
+
+.output {
+  padding-top: 20px;
+  margin:  auto;
+  max-width: 400px;
+}
+
+.fa:hover {
+  color: #DDD;
+}
