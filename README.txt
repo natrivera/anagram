@@ -1,3 +1,2 @@
-A Pen created at CodePen.io. You can find this one at https://codepen.io/natrivera/pen/jadbay.
-
+this is created to check if a string has anagrams
  
